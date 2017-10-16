@@ -1,0 +1,22 @@
+/*--- Web Sidlde Menu ----*/
+.headerfull{
+	background-color: #fff;
+	height: 60px;
+	position: relative;
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.16);
+	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.16);
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.16);
+}
+
+.wsmenu {
+    width: 100% !important;
+}
+
+.wsmenu-list > li > a {
+    color: #000;
+}
+
+.wsmenu-list > .wscarticon > a .fa.fa-shopping-basket {
+    color: #000;
+}
+/*--------------------------------*/
